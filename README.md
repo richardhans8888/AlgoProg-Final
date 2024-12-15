@@ -77,14 +77,5 @@ This project is a Tetris game built using Python and Pygame. The game includes c
 
 ---
 
-## Future Enhancements
-- **Ghost Piece**: Show where the current block will land.
-- **Hold Block Mechanic**: Let players hold a block for later use.
-- **Multiplayer Mode**: Compete against another player locally or online.
-- **AI Player**: Create an AI to play Tetris autonomously.
-- **Customizable Themes**: Add block skins and background themes.
-
----
-
 
 
