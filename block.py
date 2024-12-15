@@ -1,6 +1,3 @@
-# Importing the necessary modules.
-# 'Colors' is used for getting block colors, 'pygame' is for drawing graphics,
-# and 'Position' helps manage where blocks are placed.
 from colors import Colors
 import pygame
 from position import Position
